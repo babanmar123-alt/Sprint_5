@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+venv/
+.venv/
+env/
+ENV/
+.idea/
+.vscode/
+*.log
+*.tmp
+*.temp
+
+# Selenium
+geckodriver.log
+chromedriver.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+/screenshots/
+/allure-results/
