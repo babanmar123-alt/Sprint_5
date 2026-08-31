@@ -1,3 +1,4 @@
+# Обновлено для pull request
 # Sprint_5 — UI-тестирование Stellar Burgers
 
 Автотесты для сервиса Stellar Burgers на Selenium.

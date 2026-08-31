@@ -1,4 +1,8 @@
-# conftest.py — фикстуры для тестов
+# Обновлено для pull request
+# Файл с фикстурами для тестов
+# Файл с фикстурами для тестов
+
+
 
 import pytest
 from selenium import webdriver

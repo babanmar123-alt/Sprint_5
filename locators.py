@@ -1,4 +1,5 @@
-# locators.py — локаторы элементов на страницах
+# Обновлено для pull request
+# Локаторы элементов на страницах
 
 from selenium.webdriver.common.by import By
 

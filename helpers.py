@@ -1,4 +1,5 @@
-# helpers.py — вспомогательные функции
+# Обновлено для pull request
+# Вспомогательные функции для генерации данных
 
 import random
 import string

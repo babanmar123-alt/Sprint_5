@@ -1,3 +1,4 @@
+# Обновлено для pull request
 # tests/test_personal_account.py — тесты для личного кабинета
 
 import pytest

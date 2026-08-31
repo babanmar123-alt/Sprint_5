@@ -1,28 +1,28 @@
+# Обновлено для pull request
 # Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.Python
-.env
+
+# Случайные файлы
+develop
+
+# Виртуальное окружение
 venv/
 .venv/
 env/
 ENV/
-.idea/
+
+# IDE
 .vscode/
+.idea/
+
+# Журналы и временные файлы
 *.log
 *.tmp
 *.temp
 
-# Selenium
-geckodriver.log
+# Файлы драйверов
 chromedriver.log
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Project specific
-/screenshots/
-/allure-results/
+geckodriver.log
