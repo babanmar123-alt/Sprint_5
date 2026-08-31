@@ -1,3 +1,4 @@
+# Обновлено для pull request
 # Локаторы элементов на страницах
 
 from selenium.webdriver.common.by import By

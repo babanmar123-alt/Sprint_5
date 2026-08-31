@@ -1,3 +1,4 @@
+# Обновлено для pull request
 # tests/test_registration.py — тесты для регистрации
 
 import pytest

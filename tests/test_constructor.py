@@ -1,3 +1,4 @@
+# Обновлено для pull request
 # tests/test_constructor.py — тесты для конструктора
 
 import pytest

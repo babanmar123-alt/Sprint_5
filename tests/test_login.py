@@ -1,3 +1,4 @@
+# Обновлено для pull request
 # tests/test_login.py — тесты для входа
 
 import pytest
