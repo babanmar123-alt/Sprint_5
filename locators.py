@@ -1,4 +1,4 @@
-# locators.py — локаторы элементов на страницах
+# Локаторы элементов на страницах
 
 from selenium.webdriver.common.by import By
 
